@@ -7,11 +7,9 @@ Fixseo is an automated SEO audit service that delivers a complete website audit 
 - Free AI Visibility Check (free)
 - Full SEO Audit + Quick Fix Guide (£19.99)
 - Quick Fix Guide (£9.99)
-- PageForge — Landing Page Builder (£19.99+)
 - VicMailer — Email Outreach System (£9/month+)
 
 ## Products
-- PageForge: https://page-forge-builder-pearl.vercel.app
 - vSecure: https://v-secure-beige.vercel.app
 - VicMailer: https://vic-mailer-app-v2.vercel.app
 - GEO Scan: https://geo-scan-rose.vercel.app
@@ -21,7 +19,7 @@ Fixseo is an automated SEO audit service that delivers a complete website audit 
 - Email: vic@fixseo.uk
 
 ## Team
-- Peter Y — Founder
+- Vic — Founder
 
 ## FAQ
 - How long does an audit take? 5 seconds.
