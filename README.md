@@ -77,7 +77,7 @@ Visit Fixseo → **[https://fixseo.uk](https://fixseo.uk)**
 | HTML/CSS | Python Flask | Vercel |
 | JavaScript | Node.js | Cloud Run |
 | Tailwind CSS | Brevo SMTP | GitHub |
-| - | CashClaw | - |
+| - | OpenClaw | - |
 
 ---
 
