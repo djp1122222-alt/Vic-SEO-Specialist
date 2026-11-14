@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=500&color=22d3ee&center=true&vCenter=true&width=600&height=100&lines=Fixseo;Automated+SEO+Audits;AI+Visibility+Checks;Delivered+in+5+Seconds" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=500&color=22d3ee&center=true&vCenter=true&width=600&height=100&lines=Fixseo;Automated+SEO+Audits;AI+Visibility+Scans;Delivered+in+5+Seconds" alt="Typing SVG" />
 </p>
 
 # Fixseo — SEO Audit & Digital Growth Agency
