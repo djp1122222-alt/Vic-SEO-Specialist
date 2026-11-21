@@ -4,7 +4,7 @@
 
 # Fixseo — SEO Audit & Digital Growth Agency
 
-![Fixseo Logo](https://fixseo.uk/IMG_9720.jpeg)
+![Fixseo Logo](https://fixseo.uk/IMG_7106.jpeg)
 
 **Automated SEO audits in 5 seconds. Get a score, issues list, and fix guide delivered to your inbox.**
 
