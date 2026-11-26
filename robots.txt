@@ -1,5 +1,5 @@
-# ─────────────────────────────────────────────
-# Hi, I'm Vic — your SEO specialist.
+─────────────────────────────────────────────
+# Hi, I'm Vic — your SEO Specialist.
 # How can I help you today?
 # ─────────────────────────────────────────────
 
@@ -22,48 +22,49 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-# ── AI CRAWLERS (ALLOW CRAWL, BUT SIGNAL BLOCKS TRAINING) ──
-User-agent: GPTBot
+# ── AI SEARCH & CITATION BOTS (ALLOW) ──
+# These bots fetch pages to answer user queries in real-time
+User-agent: OAI-SearchBot
 Allow: /
 
 User-agent: ChatGPT-User
 Allow: /
 
-User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: ClaudeBot
+User-agent: PerplexityBot
 Allow: /
 
 User-agent: Claude-Web
 Allow: /
 
-User-agent: Google-Extended
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
+# ── AI TRAINING BOTS (BLOCK) ──
+# These bots scrape data to train foundation models
 User-agent: CCBot
-Allow: /
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
 
 User-agent: Amazonbot
-Allow: /
+Disallow: /
 
 User-agent: Meta-ExternalAgent
-Allow: /
+Disallow: /
 
-User-agent: PetalBot
-Allow: /
-
-User-agent: Baiduspider
-Allow: /
+User-agent: Bytespider
+Disallow: /
 
 # ── EVERYONE ELSE ──
 User-agent: *
 Allow: /
 
 Sitemap: https://fixseo.uk/sitemap.xml
+
 
 
 
